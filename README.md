@@ -1,3 +1,3 @@
 #Go QuadTree
 
-A quadtree library written in Go.
+A Quadtree library written in Go (golang).
